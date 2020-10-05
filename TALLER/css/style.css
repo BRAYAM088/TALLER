@@ -1,0 +1,25 @@
+.cuadro{
+width: 500px;
+}
+.pana{
+ background-color: rgb(175, 238, 238);
+ justify-content: center;
+}
+.wacho{
+    background-color: rgb(175, 238, 238);
+    display: flex;
+}
+.socio{
+    color: rgb(98, 34, 117);
+}
+.pepe{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.so{
+    color: rgb(98, 34, 117);
+}
+
+body{
+    background-color: rgb(240, 230, 140);
+}
